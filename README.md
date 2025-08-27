@@ -30,3 +30,9 @@ Pour tout signalement (ex. demande de retrait DMCA relative à une *release*), *
 
 ## Licence
 Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE).
+
+---
+
+## Conditions d’utilisation
+Veuillez lire les **[TERMS](TERMS.md)**.  
+**Aucun contenu n’est fourni par l’app. Vous êtes seul responsable du contenu que vous accédez/partagez.**
