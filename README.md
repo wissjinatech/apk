@@ -36,3 +36,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE).
 ## Conditions d’utilisation
 Veuillez lire les **[TERMS](TERMS.md)**.  
 **Aucun contenu n’est fourni par l’app. Vous êtes seul responsable du contenu que vous accédez/partagez.**
+
+## Confidentialité
+Consultez la **[Politique de Confidentialité](PRIVACY.md)**.  
+L’application ne collecte aucune donnée côté éditeur ; l’usage de services/SDK tiers peut être soumis à leurs politiques.
